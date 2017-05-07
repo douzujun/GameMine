@@ -1,0 +1,15 @@
+INPUT(
+./release\GameEnd.o
+./release\GameInstruction.o
+./release\GameOption.o
+./release\main.o
+./release\mineButton.o
+./release\mineGame.o
+./release\mineLand.o
+./release\qrc_pix.o
+./release\moc_GameEnd.o
+./release\moc_GameOption.o
+./release\moc_mineButton.o
+./release\moc_mineGame.o
+./release\moc_mineLand.o
+);

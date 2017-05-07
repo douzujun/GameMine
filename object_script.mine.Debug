@@ -1,0 +1,15 @@
+INPUT(
+./debug\GameEnd.o
+./debug\GameInstruction.o
+./debug\GameOption.o
+./debug\main.o
+./debug\mineButton.o
+./debug\mineGame.o
+./debug\mineLand.o
+./debug\qrc_pix.o
+./debug\moc_GameEnd.o
+./debug\moc_GameOption.o
+./debug\moc_mineButton.o
+./debug\moc_mineGame.o
+./debug\moc_mineLand.o
+);

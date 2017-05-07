@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bomber.png</file>
+        <file>images/empty.png</file>
+        <file>images/empty1.png</file>
+        <file>images/know.png</file>
+        <file>images/read.png</file>
+        <file>images/2.png</file>
+        <file>images/1.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>images/8.png</file>
+        <file>images/9.png</file>
+        <file>images/cd.png</file>
+        <file>images/start2.jpg</file>
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/bad.png</file>
+        <file>images/good.png</file>
+        <file>images/perfect.png</file>
+        <file>images/bomber.jpg</file>
+        <file>images/read.jpg</file>
+        <file>images/end.jpg</file>
+        <file>images/win.jpg</file>
+        <file>images/time.jpg</file>
+        <file>images/bad.jpg</file>
+        <file>images/good.jpg</file>
+        <file>images/perfect.jpg</file>
+    </qresource>
+</RCC>
